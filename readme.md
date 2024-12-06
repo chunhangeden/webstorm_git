@@ -1,1 +1,7 @@
 # Testing Git through a GUI (graphical user interface)
+
+- Commit 1
+- Commit 2
+- Commit 31
+- Commit 4
+- Commit 5
